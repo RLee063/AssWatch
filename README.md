@@ -12,3 +12,9 @@
 
 ## НиЭМ
 
+![](https://github.com/RLee063/AssWatch/blob/master/readmePic/001.png?raw=true)
+![](https://github.com/RLee063/AssWatch/blob/master/readmePic/002.png?raw=true)
+![](https://github.com/RLee063/AssWatch/blob/master/readmePic/003.png?raw=true)
+![](https://github.com/RLee063/AssWatch/blob/master/readmePic/004.png?raw=true)
+![](https://github.com/RLee063/AssWatch/blob/master/readmePic/005.png?raw=true)
+![](https://github.com/RLee063/AssWatch/blob/master/readmePic/006.png?raw=true)
